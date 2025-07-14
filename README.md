@@ -1,0 +1,1 @@
+# 005-Harbour-MiniGUI-openConnection-ODBC-Firebird
